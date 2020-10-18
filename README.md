@@ -9,3 +9,6 @@ Main components:
 
 Operation overview:
 Device should count up seconds and give weight in g with some way to tare and reset timer.
+
+
+Use the calibration program to find CALIBRATION with a serial terminal
