@@ -8,7 +8,7 @@ Main components:
 - microcontroller
 
 Operation overview:
-Device should count up seconds and give weight in g with some way to tare and reset timer.
+Device should count up seconds and give weight in g with capacitive touch sensor to tare scale and reset timer.
 
 
 Use the calibration program to find CALIBRATION with a serial terminal
