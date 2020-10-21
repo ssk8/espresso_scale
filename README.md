@@ -1,5 +1,7 @@
 # espresso_scale
-timer and scale for pulling the perfect shot
+timer and scale for pulling the perfect espresso shot
+
+should work for pourover coffee as well but this feature hasn't been tested ;-)
 
 Main components:
 - 1 kg load cell
