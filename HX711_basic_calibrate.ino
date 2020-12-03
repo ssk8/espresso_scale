@@ -1,7 +1,7 @@
 #include "HX711.h"
 
-const int LOADCELL_DOUT_PIN = 2;
-const int LOADCELL_SCK_PIN = 3;
+const int LOADCELL_DOUT_PIN = 3;
+const int LOADCELL_SCK_PIN = 4;
 
 HX711 scale;
 
