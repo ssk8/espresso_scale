@@ -5,7 +5,7 @@
 
 Adafruit_DotStar dot = Adafruit_DotStar(1, 7, 8, DOTSTAR_BRG);
 
-#define SCALE_CALIBRATION 445
+#define SCALE_CALIBRATION 776
 
 #define LOADCELL_DOUT_PIN 3
 #define LOADCELL_SCK_PIN 4
