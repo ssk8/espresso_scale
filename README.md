@@ -3,8 +3,8 @@ timer and scale for pulling the perfect espresso shot
 
 equally useful for pourover coffee as well
 
-![](https://github.com/ssk8/espresso_scale/blob/main/2020-10-26%2011.09.05.jpg)
-![](https://github.com/ssk8/espresso_scale/blob/main/2020-10-26%2011.08.21.jpg)
+![](https://github.com/ssk8/project_pics/blob/main/new_espresso_scale.jpg)
+![](https://github.com/ssk8/project_pics/blob/main/esspresso_scale_action1.jpg)
 
 Main components:
 - 1 kg load cell
@@ -20,7 +20,7 @@ for arduino sketches, install:
 - olikraus's [U8G2 library](https://github.com/olikraus/u8g2)
 
 Use the calibration program to find CALIBRATION with a serial terminal
-
+Depending on the ADC, you may need to remove the number of times for average for the tare and measurments. Currently set to 20 but should be none for old (uncapped) ADC
 
 
 ## 2022 update:
