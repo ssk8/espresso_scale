@@ -3,8 +3,10 @@ timer and scale for pulling the perfect espresso shot
 
 equally useful for pourover coffee as well
 
-![](https://github.com/ssk8/project_pics/blob/main/new_espresso_scale.jpg)
-![](https://github.com/ssk8/project_pics/blob/main/esspresso_scale_action1.jpg)
+
+<img src=https://github.com/ssk8/project_pics/blob/main/new_espresso_scale.jpg width="300"/> 
+
+<img src=https://github.com/ssk8/project_pics/blob/main/esspresso_scale_action1.jpg width="300"/>
 
 Main components:
 - 1 kg load cell
