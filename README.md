@@ -8,16 +8,17 @@ equally useful for pourover coffee as well
 
 <img src=https://github.com/ssk8/project_pics/blob/main/esspresso_scale_action1.jpg width="300"/>
 
-Main components:
+## Main components:
 - 1 kg load cell
 - HX711 amplifier
 - SH1106 128X64 oled
 - microcontroller
 
-Operation overview:
-Device should count up seconds and give weight in g 
+## Operation overview:
+-count up seconds and give weight in g
+-reset counter after initial 0.2g change in weight
 
-for arduino sketches, install:
+### for arduino sketches, install:
 - bogde's [HX711 library](https://github.com/bogde/HX711)
 - olikraus's [U8G2 library](https://github.com/olikraus/u8g2)
 
